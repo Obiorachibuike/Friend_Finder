@@ -1,0 +1,148 @@
+* {
+  margin: 0px;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+body {
+  font-family: Arial, sans-serif;
+  /* margin: 20px; */
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+li {
+  margin-bottom: 10px;
+}
+.blogger-content {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+  align-items: center;
+  height: 100px;
+}
+.blog-content,
+.title-cont {
+  display: flex;
+  flex-direction: column;
+  margin: 30px 0px;
+}
+.add {
+  height: 40px;
+  width: 200px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  background-color: red;
+  color: wheat;
+  border: navajowhite;
+  border-radius: 10px;
+}
+.btn-cont {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: end;
+  margin-left: 18px;
+}
+
+input,
+textarea {
+  resize: vertical;
+  padding: 10px;
+  outline: none;
+  width: 100%;
+  font-size: 18px;
+}
+textarea {
+  min-height: 200px;
+}
+form {
+  width: 400px;
+  margin: auto;
+  height: 300px;
+  padding: 25px;
+}
+label {
+  font-size: 25px;
+  font-weight: 550;
+  margin-bottom: 10px;
+}
+
+.blogger-cont {
+  border-bottom: 2px solid red;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
+.blogging-cont {
+  display: flex;
+  flex-direction: column;
+}
+.blogs-content {
+  width: 80%;
+  margin: auto;
+}
+
+.blogs-content {
+  padding: 20px 20px;
+  border: 1px solid red;
+  margin-top: 30px;
+  width: 300px;
+  box-shadow: 2px 2px 5px red;
+  border-radius: 10px;
+}
+.blogs-cont {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+.time-cont {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.blogs-heading {
+  height: 40px;
+}
+.blogging-content {
+  line-height: 23px;
+  height: 50px;
+  overflow: hidden;
+  text-align: justify;
+  margin-bottom: 10px;
+  width: 100%;
+}
+.read-cont button {
+  width: 180px;
+  height: 41px;
+  font-size: 18px;
+  background: red;
+  color: white;
+  border: navajowhite;
+  border-radius: 50px;
+}
+
+input,textarea{
+ border: 1px solid red;
+ border-radius: 10px;
+}

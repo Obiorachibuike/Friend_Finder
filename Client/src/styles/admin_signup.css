@@ -1,0 +1,48 @@
+/* .form-content{
+    width: 400px;
+    background-color: rgb(212, 208, 208);
+    padding: 30px;
+    border-radius: 20px;
+}
+.form-content h1{
+    
+    text-align: center;
+}
+.input-cont{
+    display: grid;
+  margin-bottom: 15px;
+}
+label{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+input{
+    padding: 10px 10px;
+    outline: none;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+}
+.form-btn{
+    display: flex;
+    justify-content: center;
+
+}
+button{
+
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;;
+}
+button:hover{
+    background-color: gainsboro;
+}
+.form-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+} */
